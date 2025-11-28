@@ -7,7 +7,7 @@ Este proyecto se genero para implentar una pagina con html y ccs y repositorio e
 
 ## como ejecutar el proyecto
 1. clonar el repositorio
-    got clone https://github.com/figueroaliyen58/html_liyen04.git
+    git clone https://github.com/figueroaliyen58/html_liyen04.git
 2. Abre el archivo index.html en su navegador
 
 ## requisitor <!--seccion donde se especifica que requirimientos debe tener el usuario-->
